@@ -4,5 +4,8 @@ Para criar projeto pelo Visual studio Code
 
 1 - Definir o nome e tal. Dar Ok
 
-2 - Definir framework .NET 6.0, sem autentificação, definir com configurar para HTTPS, definir sem docker e definir com os 3 espaços de opções no final 
+2 - Definir framework .NET 6.0, sem autentificação, definir com configurar para HTTPS, definir sem docker e definir com os 3 espaços de opções no final. 
 
+3 - no nome do projeto na aba a direita clicar com o botão direito no nome do projeto que é SistemaDeTarefas e escolher a opção Gerenciar Pacote Nugets.
+
+4 - 
