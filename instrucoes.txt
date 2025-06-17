@@ -8,4 +8,10 @@ Para criar projeto pelo Visual studio Code
 
 3 - no nome do projeto na aba a direita clicar com o botão direito no nome do projeto que é SistemaDeTarefas e escolher a opção Gerenciar Pacote Nugets.
 
-4 - 
+4 - Pesquisar no Browse o Microsoft.EntityFrameworkCore e baixar a versão 6.0.0. Instalar e confirmar a versão.
+
+5 - Instalar o Microsoft.EntityFrameworkCore.Design e baixar a versão 6.0.0. Instalar e confirmar a versão.
+
+6 - Instalar o Microsoft.EntityFrameworkCore.SqlServer e baixar a versão 6.0.0. Instalar e confirmar a versão.
+
+7 - Instalar o Microsoft.EntityFrameworkCore.Tools e baixar a versão 6.0.0. Instalar e confirmar a versão.
