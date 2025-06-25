@@ -1,0 +1,53 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\User\\Documents\\estudo\\programa\u00E7\u00E3o\\C#\\APIs\\SistemaDeTarefas\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{16899241-FB99-48E9-9FE4-6A4D43185028}|SistemaDeTarefas\\SistemaDeTarefas.csproj|c:\\users\\user\\documents\\estudo\\programa\u00E7\u00E3o\\c#\\apis\\sistemadetarefas\\sistemadetarefas\\controllers\\usuariocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{16899241-FB99-48E9-9FE4-6A4D43185028}|SistemaDeTarefas\\SistemaDeTarefas.csproj|solutionrelative:sistemadetarefas\\controllers\\usuariocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{16899241-FB99-48E9-9FE4-6A4D43185028}|SistemaDeTarefas\\SistemaDeTarefas.csproj|c:\\users\\user\\documents\\estudo\\programa\u00E7\u00E3o\\c#\\apis\\sistemadetarefas\\sistemadetarefas\\data\\sistematarefasdbcontex.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{16899241-FB99-48E9-9FE4-6A4D43185028}|SistemaDeTarefas\\SistemaDeTarefas.csproj|solutionrelative:sistemadetarefas\\data\\sistematarefasdbcontex.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "SistemaTarefasDBContex.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Documents\\estudo\\programa\u00E7\u00E3o\\C#\\APIs\\SistemaDeTarefas\\SistemaDeTarefas\\Data\\SistemaTarefasDBContex.cs",
+              "RelativeDocumentMoniker": "SistemaDeTarefas\\Data\\SistemaTarefasDBContex.cs",
+              "ToolTip": "C:\\Users\\User\\Documents\\estudo\\programa\u00E7\u00E3o\\C#\\APIs\\SistemaDeTarefas\\SistemaDeTarefas\\Data\\SistemaTarefasDBContex.cs",
+              "RelativeToolTip": "SistemaDeTarefas\\Data\\SistemaTarefasDBContex.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-17T18:19:58.513Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "UsuarioController.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Documents\\estudo\\programa\u00E7\u00E3o\\C#\\APIs\\SistemaDeTarefas\\SistemaDeTarefas\\Controllers\\UsuarioController.cs",
+              "RelativeDocumentMoniker": "SistemaDeTarefas\\Controllers\\UsuarioController.cs",
+              "ToolTip": "C:\\Users\\User\\Documents\\estudo\\programa\u00E7\u00E3o\\C#\\APIs\\SistemaDeTarefas\\SistemaDeTarefas\\Controllers\\UsuarioController.cs",
+              "RelativeToolTip": "SistemaDeTarefas\\Controllers\\UsuarioController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-17T14:38:10.814Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
